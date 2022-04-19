@@ -1,0 +1,114 @@
+* {
+    margin: 0px;
+
+    padding: 0px
+}
+
+#container {
+    width: 996px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+#banner {
+    margin: 100px;
+    margin-left: 0px;
+    height: 200px;
+    width: 900px;
+}
+
+#banner-dimensao{
+    height: 200px;
+    width: 900px;
+}
+
+#link {
+    margin-left: 0px;
+    margin-top: -97px;
+    margin-bottom: -20px;
+    background-color: rgb(198, 253, 255);
+    width: 130px;
+    height: 505px;
+}
+
+#formatacao-links {
+    margin-top: -50px;
+    margin-left: 35px;
+    font-style: none;
+}
+
+#texto {
+    margin-left: 135px;
+    margin-right: 700px;
+    margin-top: -505px;
+    height: 505px;
+    width: 257px;
+}
+
+#videos{
+    height: 250px;
+    width: 250px;
+}
+
+#video1 {
+    margin-left: 397px;
+    margin-right: 700px;
+    margin-top: -505px;
+    background-color: green;
+    height: 250px;
+    width: 250px;
+}
+
+#video2 {
+    background-color: greenyellow;
+    margin-top: -250px;
+    margin-left: 650px;
+    height: 250px;;
+    width: 250px;
+}
+
+#video3 {
+    background-color: greenyellow;
+    margin-top: 4px;
+    margin-left: 397px;
+    height: 250px;
+    width: 250px;
+}
+
+#video4 {
+    background-color: greenyellow;
+    margin-top: -250px;
+    margin-left: 650px;
+    height: 250px;
+    width: 250px;
+}
+
+#posicionamento{
+    margin-left: 135px;
+    margin-right: 100px;
+    margin-top: -505px;
+}
+
+#idade{
+    background-color: rgb(228, 228, 228);
+    height: 100px
+
+}
+
+#texto{
+    text-align: left;
+}
+
+footer {
+    height: 1px;
+    width: 900px;
+    margin-left: 0px;
+    margin-top: 5px;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+
